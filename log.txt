@@ -1,0 +1,11 @@
+commit 912803922bd667121541212a33a66060ea8f9a1a
+Author: Oscar <test@gmail.com>
+Date:   Mon Dec 11 08:49:20 2023 +0100
+
+    ignorowanie.docx
+
+commit 672cb0d65c6bffa5bf4fe623bbce4d8237d04d87
+Author: Oscar <test@gmail.com>
+Date:   Mon Dec 11 08:44:17 2023 +0100
+
+    ciuchcia
